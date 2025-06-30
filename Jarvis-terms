@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms and Conditions - Jarvis AI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Terms and Conditions</h1>
+  <p>Last updated: June 30, 2025</p>
+
+  <h2>1. Introduction</h2>
+  <p>Welcome to Jarvis AI. By subscribing to our services, you agree to the following terms and conditions. Please read them carefully before using the service.</p>
+
+  <h2>2. Subscription</h2>
+  <p>Jarvis AI offers monthly subscription services. By purchasing a subscription, you agree to recurring billing based on your selected plan. You may cancel anytime through your account settings.</p>
+
+  <h2>3. Usage</h2>
+  <p>You agree not to misuse the service, reverse engineer the extension, or use it in any unlawful manner. Any misuse may lead to termination of your access.</p>
+
+  <h2>4. Refund Policy</h2>
+  <p>Refunds are only granted in cases of accidental billing or technical failure. Please contact support at support@jarvisai.xyz within 7 days of charge.</p>
+
+  <h2>5. Privacy</h2>
+  <p>We respect your privacy. Our extension uses only necessary permissions and does not collect or store personal information unless explicitly required for functionality. See our <a href="/privacy">Privacy Policy</a> for details.</p>
+
+  <h2>6. Changes to Terms</h2>
+  <p>We reserve the right to update these terms at any time. Continued use after changes means you accept the updated terms.</p>
+
+  <h2>7. Contact</h2>
+  <p>If you have any questions, contact us at <strong>support@jarvisai.xyz</strong>.</p>
+</body>
+</html>
